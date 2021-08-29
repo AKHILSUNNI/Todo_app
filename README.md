@@ -1,5 +1,5 @@
 # Description
-This is a todo app created by me.
+This is a todo app created by me [@AKHILSUNNI](https://github.com/AKHILSUNNI).
 
 ## `Todo_app`
 
